@@ -2,11 +2,12 @@
 
   **`Growth Lead at NextWork`** 
 
+#Below you will find a demo github readme - feel free to check out my code!
+
 ## About Me
 - I build, ship, and tell the story in public.
-- Grew social media to 250K+ followers in one year.
+- Grew NextWorks social media to 250K+ followers in one year.
 - Help teach 145,000+ students cloud, AI, and tech skills.
-
 
 
 <a href="https://www.linkedin.com/in/maximus-soares/" target="blank">
@@ -17,8 +18,6 @@
 </a>
 
 ---
-![image](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmM5MzI0bjZwZXJlZ3BqN3EyNDBvemhxcTZpbGN3cng3cGo3amM4YiZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/FPDZV2JGkNGeUZdi7G/giphy.gif)
----
 
 ## Projects - showcase
 _A three slot gallery. Drop an image for each project. Keep titles punchy and link everything._
@@ -26,65 +25,75 @@ _A three slot gallery. Drop an image for each project. Keep titles punchy and li
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/YOUR_GH_USERNAME/project-one"><img src="http://learn.nextwork.org/happy_maroon_jolly_red_currant/uploads/ai-llm-deepseek_kkkkkkkk" alt="Project One thumbnail" width="100%"></a>
+      <a href="https://github.com/maximus-soares/Projects/blob/main/AI%20Projects/Deepseek.md">
+        <img src="http://learn.nextwork.org/happy_maroon_jolly_red_currant/uploads/ai-llm-deepseek_gggggggg"
+             alt="DeepSeek AI Project"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
       <br/>
-      <b>Project One</b><br/>
-      <sub>What it is in one line. Impact or metric if possible.</sub><br/>
-      🔗 <a href="https://github.com/YOUR_GH_USERNAME/project-one">Repo</a> · <a href="https://demo-or-case-study-url.com">Demo or Case Study</a>
+      <b>DeepSeek AI Chatbot</b><br/>
+      <sub>Built an LLM-powered chatbot that answers domain-specific questions in real time.</sub><br/>
+      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/AI%20Projects/Deepseek.md">Repo</a>
       <br/>
-      <sub>Tags: AWS, Terraform, CI/CD</sub>
+      <sub>Tags: AI, LLMs, Prompt Engineering</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/YOUR_GH_USERNAME/project-two"><img src="./assets/project-2.png" alt="Project Two thumbnail" width="100%"></a>
+      <a href="https://github.com/maximus-soares/Projects/blob/main/CICD%20Pipeline/Set%20Up%20a%20Web%20App%20in%20the%20Cloud.md">
+        <img src="https://learn.nextwork.org/projects/static/aws-devops-vscode/architecture-complete.png"
+             alt="CI/CD Pipeline Project"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
       <br/>
-      <b>Project Two</b><br/>
-      <sub>What it is in one line. Why it is interesting technically.</sub><br/>
-      🔗 <a href="https://github.com/YOUR_GH_USERNAME/project-two">Repo</a> · <a href="https://demo-or-case-study-url.com">Demo or Case Study</a>
+      <b>Cloud CI/CD Pipeline</b><br/>
+      <sub>Automated deployment of a web app using GitHub Actions and AWS ECS.</sub><br/>
+      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/CICD%20Pipeline/Set%20Up%20a%20Web%20App%20in%20the%20Cloud.md">Repo</a>
       <br/>
-      <sub>Tags: Docker, ECS, GitHub Actions</sub>
+      <sub>Tags: DevOps, Docker, GitHub Actions</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/YOUR_GH_USERNAME/project-three"><img src="./assets/project-3.png" alt="Project Three thumbnail" width="100%"></a>
+      <a href="https://github.com/maximus-soares/Projects/blob/main/Networking/1%20Build%20a%20VPC.md">
+        <img src="https://camo.githubusercontent.com/6b6af843159b1de02c9a7ae1908b05a29b1c2383077f1c3d38a08ac7889c81bd/687474703a2f2f6c6561726e2e6e657874776f726b2e6f72672f68617070795f6d61726f6f6e5f6a6f6c6c795f7265645f63757272616e742f75706c6f6164732f6177732d6e6574776f726b732d7670635f3266616366393237"
+             alt="VPC Networking Project"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
       <br/>
-      <b>Project Three</b><br/>
-      <sub>What it is in one line. Call out results or scale.</sub><br/>
-      🔗 <a href="https://github.com/YOUR_GH_USERNAME/project-three">Repo</a> · <a href="https://demo-or-case-study-url.com">Demo or Case Study</a>
+      <b>Secure AWS VPC</b><br/>
+      <sub>Designed and deployed a custom VPC with public/private subnets and routing.</sub><br/>
+      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/Networking/1%20Build%20a%20VPC.md">Repo</a>
       <br/>
-      <sub>Tags: Lambda, API Gateway, DynamoDB</sub>
+      <sub>Tags: Networking, AWS, Security</sub>
     </td>
   </tr>
 </table>
 
-> Tip: put images at `./assets/project-1.png` etc. 1280x720 works well. Keep file sizes small.
+
 
 ---
 
 ## Skill stack
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,git,github,terraform,python,typescript,nodejs,figma&theme=light)](https://skillicons.dev)
 
-**Also comfortable with**: Git, TypeScript or Python for tooling, SQL for analytics, BigQuery, basic ML workflows.
+**Also comfortable with**: SQL (BigQuery, Postgres), CI/CD pipelines, Networking & Security (VPC, IAM), Basic ML workflows.
 
 ---
 
-## Stats and dev activity
+## Stats
 ![Maximus' GitHub stats](https://github-readme-stats.vercel.app/api?username=maximus-soares&show_icons=true&theme=gruvbox)
 
 ---
 
-## Links
-- Portfolio: https://learn.nextwork.org/happy_maroon_jolly_red_currant/portfolio <!-- replace -->
-- LinkedIn: https://www.linkedin.com/in/maximus-soares/
-- Instagram: https://www.instagram.com/mmaximus.soares/
-- GitHub: https://github.com/YOUR_GH_USERNAME <!-- replace -->
-- Contact: mailto:you@yourdomain.com <!-- replace or remove -->
+##  Links
 
-<a href="https://learn.nextwork.org/happy_maroon_jolly_red_currant/portfolio">Click here to visit my portfolio </a>
+- [**Portfolio**](https://learn.nextwork.org/happy_maroon_jolly_red_currant/portfolio)  
+- [**LinkedIn**](https://www.linkedin.com/in/maximus-soares/)  
+- [**Instagram**](https://www.instagram.com/mmaximus.soares/)  
+- [**Contact**](mailto:maximus@nextwork.org)
+
+
+
+<!-- How to add in a photo/gif -->
+![image](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXh2ZzdlYWZndHl2dWcyb2RveHlpYzhsand5YmRmaHRwdXhlcGZhZyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/3o6Ztr9s7vPAS8XtK0/giphy.gif)
 
 
 
 ---
-
-### Notes for me
-- Pin the three project repos on my profile.
-- Keep this README fresh. Swap project images with real screenshots or gifs.
-- If the stat cards 404, try again later or remove them.
