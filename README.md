@@ -29,7 +29,6 @@ Credits and references used in this README:
 ---
 
 ## Projects - showcase
-_A three slot gallery. Drop an image for each project. Keep titles punchy and link everything._
 
 <table>
   <tr>
